@@ -1,0 +1,17 @@
+{
+    "143": {
+        "acc_no": "143",
+        "name": "devi",
+        "pin": "1010",
+        "balance": 1081.6,
+        "transactions": [
+            "Deposited \u20b9500.0",
+            "Withdrawn \u20b9500.0",
+            "Interest added \u20b90.0",
+            "Deposited \u20b91000.0",
+            "Interest added \u20b940.0",
+            "Interest added \u20b941.6"
+        ],
+        "type": "savings"
+    }
+}
